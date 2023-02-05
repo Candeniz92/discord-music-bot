@@ -1,0 +1,23 @@
+{
+  "name": "candeniz",
+  "version": "1.0.0",
+  "description": "Music Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "erela.js": "^2.3.3",
+    "erela.js-spotify": "^1.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.4",
+    "node-cron": "^3.0.0",
+    "qs": "^6.10.3",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
